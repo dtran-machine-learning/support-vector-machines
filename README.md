@@ -1,4 +1,4 @@
-# machine-learning--principal-components
+# machine-learning--support-vector-machines
 
 **Assignment 3 - Support Vector Machines**
 
