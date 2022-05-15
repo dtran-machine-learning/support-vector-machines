@@ -1,8 +1,8 @@
 # machine-learning--principal-components
 
-**Assignment 3 - Principal Components**
+**Assignment 3 - Support Vector Machines**
 
-This assignment focuses on principal component analysis (PCA) and its applications in recommendation systems utilizing matrix factorization. It also looks at support vector machines (SVMs).
+This assignment focuses on support vector machines (SVMs). It also looks at matrix factorization and its application in recommendation systems.
 
 ## Usage
 
